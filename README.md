@@ -13,5 +13,5 @@
 ## Скриншот результата:
 ![App Screenshot](./Автотесты.png)
 ### Configuration
-*	URL: https://311be941-4a2b-43fd-8e4b-243387aa8ab2.serverhub.praktikum-services.ru.
+*	URL: https://7359ced2-bd60-46e0-a2f0-3dbd6dc9c681.serverhub.praktikum-services.ru.
 *	Стэк: VSCode с пакетами: `requests`, `pytest`.
